@@ -1,0 +1,9 @@
+
+{
+  "name": "Pathfinder - Career Explorer & Learning Management",
+  "description": "A high-performance student career guidance platform featuring 15+ tech domains, 50+ courses, and AI-powered progress tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
